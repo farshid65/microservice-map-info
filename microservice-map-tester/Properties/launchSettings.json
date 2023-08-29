@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "microservice-map-tester": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
